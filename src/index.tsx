@@ -1,0 +1,1 @@
+export { ComicsViewerView } from './ComicsViewerView';
